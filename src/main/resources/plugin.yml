@@ -1,6 +1,4 @@
-main: rip.crystal.practice.cPractice
-name: hPractice
+main: me.ziue.api.zAPI
+name: zAPI
 version: ${project.version}
 authors: ["ziue"]
-depend:
-  - HolographicDisplays
