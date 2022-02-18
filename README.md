@@ -20,7 +20,7 @@ public void registerCommands() {
 ```
 </details>
 <details>
-	<summary><b>Simple Fly Command/b></summary>
+	<summary><b>Simple Fly Command></summary>
   
 ```java
 public class FlyCommand extends BaseCommand {
