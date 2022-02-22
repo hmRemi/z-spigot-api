@@ -2,7 +2,7 @@
 <br>
   <br>
     <br>
-  A Bukkit/Spigot API to simplify usage of command and rank / chat systematting.
+  A Bukkit/Spigot API to simplify usage of command and rank / chat formatting.
   <br>
 </h2>
 
